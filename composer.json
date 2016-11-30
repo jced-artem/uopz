@@ -4,6 +4,7 @@
     "description": "Wrapper for php uopz library's functions. Very useful for unit testing for changing function's behaviour in runtime.",
     "keywords": ["uopz","testing"],
     "homepage": "https://github.com/jced-artem",
+    "license": "MIT",
     "authors": [
         {
             "name": "Artem Jced",
