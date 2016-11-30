@@ -9,8 +9,5 @@
             "name": "Artem Jced",
             "role": "Developer"
         }
-    ],
-    "require": {
-        "php": ">=5.3.0"
-    }
+    ]
 }
