@@ -1,0 +1,16 @@
+{
+    "name": "jced-artem/uopz",
+    "type": "library",
+    "description": "Wrapper for php uopz library's functions. Very useful for unit testing for changing function's behaviour in runtime.",
+    "keywords": ["uopz","testing"],
+    "homepage": "https://github.com/jced-artem",
+    "authors": [
+        {
+            "name": "Artem Jced",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
