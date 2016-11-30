@@ -1,6 +1,11 @@
 # uopz
 Wrapper for php uopz library's functions. Very useful for unit testing for changing function's behaviour in runtime.
 
+### Install
+```
+composer require jced-artem/uopz
+```
+
 ### Hook non-return third-party-called function to get return from it
 ```
 public function foo($data) {
