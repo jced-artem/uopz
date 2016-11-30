@@ -5,6 +5,14 @@ Wrapper for php uopz library's functions. Very useful for unit testing for chang
 ```
 composer require jced-artem/uopz
 ```
+### Usage
+```
+class yourClass
+{
+    use Jced\UopzTrait;
+    // ...
+}
+```
 
 ### Hook non-return third-party-called function to get return from it
 ```
