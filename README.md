@@ -1,5 +1,5 @@
 # uopz
-Wrapper for php uopz library's functions. Very useful for unit testing for changing function's behaviour in runtime.
+Wrapper for php uopz library's functions. Very useful for unit testing for changing function's behavior in runtime.
 
 ### Install
 ```
