@@ -6,7 +6,7 @@ Wrapper for php uopz library's functions. Very useful for unit testing for chang
 oupz library
 ```
 You can install it:
-- for `php-7` just throw pecl: `pecl install oci8`
+- for `php-7` just throw pecl: `pecl install uopz`
 - for `php-5.6` using this instruction: <a href='https://github.com/jced-artem/uopz-install'>uopz-install</a>
 
 ### Install
